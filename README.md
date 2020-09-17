@@ -1,6 +1,6 @@
 # Pop Notification with React
 
-## A basic implementation of notification system
+## A basic implementation of 2 type notification system
 
 ### For running this project: -
 - Install latest version of npm and react
