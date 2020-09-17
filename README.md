@@ -1,4 +1,4 @@
-# Pop Notification with React
+# Pop-up Notification with React
 
 ## A basic implementation of 2 type notification system
 
