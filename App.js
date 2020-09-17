@@ -1,5 +1,4 @@
 import React from 'react';
-//import ReactDOM from 'react-dom';
 import ReactNotifications from 'react-notifications-component';
 import Homepage from './Homepage';
 
